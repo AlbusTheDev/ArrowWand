@@ -1,7 +1,0 @@
-main: com.knockturnmc.arrowwand.Main.Main
-name: ArrowWand
-version: 1.0
-description: A test plugin
-commands:
-  arrow:
-    description: main arrow command
